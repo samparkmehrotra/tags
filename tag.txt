@@ -1,6 +1,3 @@
 New file tag
 
-1
-2
-2
-
+This is the new line added in the file
